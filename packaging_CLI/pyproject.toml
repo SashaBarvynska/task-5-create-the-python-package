@@ -1,0 +1,17 @@
+[unique_characters_counter_Barvynska]
+name = "unique_characters_counter_Barvynska"
+version = "0.1.0"
+authors = [
+  { name="Sasha", email="alexbarvynska@gmail.com" },
+]
+description = "CLI application that takes a string and returns the number of unique characters in the string."
+readme = "README.md"
+requires-python = ">=3.10.4"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[unique_characters_counter_Barvynska.urls]
+"Homepage" = "https://git.foxminded.com.ua/foxstudent103119/task-5-create-the-python-package"
