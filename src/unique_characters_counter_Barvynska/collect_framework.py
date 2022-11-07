@@ -1,6 +1,6 @@
 from argparse import ArgumentParser, Namespace
 
-from unique_characters_counter_Barvynska.task_4 import avoid_mistake
+from .task_4 import avoid_mistake
 
 
 def init_parser() -> Namespace:

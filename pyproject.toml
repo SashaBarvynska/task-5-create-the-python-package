@@ -1,6 +1,6 @@
 [project]
 name = "unique_characters_counter_Barvynska"
-version = "0.0.3"
+version = "0.1.2"
 authors = [
   { name="Sasha", email="alexbarvynska@gmail.com" },
 ]

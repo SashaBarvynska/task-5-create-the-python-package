@@ -3,7 +3,11 @@
 CLI application that takes a string and returns the number of unique characters in the string or text file.
 
   
-  
+## INSTALLATION
+To install the package use:
+```
+pip install -i https://test.pypi.org/simple/ unique-characters-counter-Barvynska
+```
 
 ## HOW TO USE:
 Create file, for example ```app.py``` with following content:
@@ -29,4 +33,4 @@ or
   
 
 ### Note: 
-Only first string in a file will be processed. Also, when given both ```--string``` and ```--file ``` arguments, ```--string``` will be ignored.
+When given both ```--string``` and ```--file ``` arguments, ```--string``` will be ignored.
